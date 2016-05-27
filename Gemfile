@@ -39,6 +39,7 @@ gem 'sprockets', '2.11.0'
 
 gem 'devise', '>= 3.2.4'
 
+gem 'simple_form'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
